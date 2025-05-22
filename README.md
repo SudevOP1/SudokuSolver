@@ -1,12 +1,28 @@
-# React + Vite
+# Sudoku Solver
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project solves a given incomplete Sudoku puzzle and displays the solution<br/>
 
-Currently, two official plugins are available:
+## 🛠️ Tech Stacks
+- **Frontend**: React + Tailwind
+- **Algorithm**: Bruteforce backtracking algorithm
+<br>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 How to run it locally
 
-## Expanding the ESLint configuration
+### 1. Clone the repo
+```bash
+git clone https://github.com/SudevOP1/SudokuSolver.git
+```
+### 2. Frontend Server
+```powershell
+cd SudokuSolver
+npm install
+npm run dev
+```
+### 3. See the magic happen
+Go to `http://localhost:5173`<br>
+<br>
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Website Design
+![Example](https://raw.githubusercontent.com/SudevOP1/SudokuSolver/main/Implementation.png)<br>
+<br>
