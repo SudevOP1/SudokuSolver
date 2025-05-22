@@ -1,6 +1,7 @@
 # Sudoku Solver
 
 This project solves a given incomplete Sudoku puzzle and displays the solution<br/>
+<br>
 
 ## 🛠️ Tech Stacks
 - **Frontend**: React + Tailwind
